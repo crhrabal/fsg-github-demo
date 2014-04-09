@@ -97,10 +97,10 @@ git:
 
   - Click commits on a pull request or at the top of a repo
      - Click SHA-1 number
-       -SHA-1 is a type of compression. Every change in git is compressed and assigned a SHA-1 hash to make git       
-       -lightweight
+       - SHA-1 is a type of compression. Every change in git is compressed and assigned a SHA-1 hash to make git       
+       - lightweight
      - If you click it will bring you to that specific commit.
-       -You or any other user can also comment on specific commits. 
+       - You or any other user can also comment on specific commits. 
      - You can @mention people to bring stuff to their attention.
 
 **No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.**
@@ -115,6 +115,15 @@ git:
     - Click "New Issue"
 
 
-**MERGE MAYHEM**
+**Branching and Merging (And the conflicts that arise)**
 
-(TODO)
+
+  - If I make changes to this file and then you decide you want to have the latest changes.
+    - In git 
+      - git pull origin
+      - git merge master
+    - On GitHub
+      - Go to that repo and click pull request
+      - Merge changes
+  
+  
