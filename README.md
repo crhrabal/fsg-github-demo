@@ -226,7 +226,7 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
       - Go to that repo and click pull request
       - Merge changes
   
-  - If I delete a bunch of files, commit, then try to merge? 
+  - If I delete a bunch of files, commit, then try to merge? (other than git rm'ing manually)
   
   - If more than one user change the same line then (non-admin) tries to push to upstream (merge)
   
