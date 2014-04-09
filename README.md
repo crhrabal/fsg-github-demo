@@ -172,7 +172,7 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
        - You or any other user can comment on specific commits. 
      - You can @mention people to bring stuff to their attention in a comment.
 
-**No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.**
+**No privilege needed for any of the above, you don't NEED write-access to a repository that isn't yours.**
 
 **Dashboard: Blame/Raw, Wiki, Graphs, Network**
 
