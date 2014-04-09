@@ -76,6 +76,8 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
   
     - git remote add origin https://www.github.com/username/reponame.git
       - makes the url the origin
+        -Origin can be local, github, or a private server you have write-access too. You can also change the origin at            any time. Origin doesn't mean "where it started," though it is often used that way. Origin just sets what you            want your remote repository to be. You can have multiple remotes
+
     - git push -u origin master   (-u for set upstream)
       - pushes your repo/changes to that origin
       - enter username / password
@@ -109,10 +111,10 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
   - Click commits on a pull request or at the top of a repo
      - Click SHA-1 number
        - SHA-1 is a type of compression. Every change in git is compressed and assigned a SHA-1 hash to make git       
-       - lightweight
-     - If you click it will bring you to that specific commit.
-       - You or any other user can also comment on specific commits. 
-     - You can @mention people to bring stuff to their attention.
+         lightweight
+     - If you click the SHA-1, it will bring you to that specific commit.
+       - You or any other user can comment on specific commits. 
+     - You can @mention people to bring stuff to their attention in a comment.
 
 **No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.**
 
@@ -133,12 +135,11 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
   
     - In git 
     
-      - git pull origin
+      - git fetch origin
       - git merge master
       
     - On GitHub
     
       - Go to that repo and click pull request
       - Merge changes
-  
   
