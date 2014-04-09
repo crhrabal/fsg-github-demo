@@ -81,7 +81,9 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
     
   - Local vs Web-based
   
-    - git clone https://www.github.com/username/reponame - You can clone this repo to your local machine, and work             locally or on the web.
+    - git clone https://www.github.com/username/reponame - You can clone this repo to your local machine, and work             locally. 
+    
+    - Once you create a repo, you can add/edit files, folders on the web as well.
     
     - You can push back to github from both.
 
