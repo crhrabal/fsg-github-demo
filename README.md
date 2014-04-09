@@ -77,4 +77,12 @@ git:
   
     - A file is created in your fork. 
     
+  - Click Pull Request
+    - Will show you preview of your changes
+    - Add a message, Click Send Pull Request
+  
+  - The owner of the repo can click Pull requests on the right of the screen
+    - If you click on a pull request, you or all other uses can add comments to specific pull requests.
+  
+    
     
