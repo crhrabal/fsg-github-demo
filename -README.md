@@ -105,6 +105,24 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
       - There is a space to rename the repository in the settings menu.
     
       - You can click "delete this repository" at the very bottom of the next screen. It warns you, once you delete it,          that it's gone forever (Back it up locally if that's important!)
+  
+  - Deleting / Renaming a file
+     
+    - Click on a file
+    
+      - Click the "Edit" button"
+      
+      - There is a prompt to change the name of the file.
+  
+    - Near the "Edit" button there is a button called "Delete"
+    
+  - Creating Folders
+  
+    - Click "New File" 
+    
+    - The prompt will ask you for a file name in the form of: reponame/filename. 
+    
+    - Enter reponame/foldername/filename and that folder/file will be automatically created. GitHub doesn't support            making empty folders, though you could push empty folders using git.
 
 **Fork / Clone**
 
