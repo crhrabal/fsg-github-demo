@@ -3,20 +3,23 @@ fsg-github-demo
 
 This is where I'll be uploading/writing/editing the git/github tutorial that I'll be presenting to WVU Free Software Group.
 
+NOTE: This lecture is not supposed to cover all things git/GitHub. This will get you on the right track, but there is a wealth of information in the documentation below. The git/GitHub docs below, along with the man pages within the git program are the best places to go for more info.
 
-GitHub:
+**Documentation:** 
 
-*-https://guides.github.com/
+  - GitHub:
 
-*-https://help.github.com/categories/54/articles
+    -https://guides.github.com/
 
-git:
+    -https://help.github.com/categories/54/articles
 
-*-http://git-scm.com/doc
+  - git:
 
-*-http://gitref.org/
+    - http://git-scm.com/doc
 
-*-http://try.github.io/levels/1/challenges/1 
+    - http://gitref.org/
+
+    - http://try.github.io/levels/1/challenges/1 
 
 
 
@@ -35,11 +38,19 @@ git:
 
 **git basics**
 
+  - Have git installed - It's available (free and open source) for Mac, Windows, and Linux, and the interface is the same     no matter which version you install
+
+    - Typing "git help" in terminal gives a list of commands
+    
+    - Typing "man git-command" will bring up internal documentation on a particular command. 
+    
+      - For instance, the man page for "git help" is "man git-help"
+    
   - git init projectname
 
   - cd project name
 
-  - create some files
+  - Create some files
   
   - git status
   
