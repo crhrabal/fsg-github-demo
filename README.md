@@ -16,3 +16,28 @@ git:
 *-http://gitref.org/
 
 *-http://try.github.io/levels/1/challenges/1 
+
+- Who am I?
+
+- What am I gonna talk about?
+
+  - git and GitHub.
+
+- What is git/Github
+
+
+1. git basics
+
+  - git init projectname
+
+  - cd project name
+
+  - create some files
+  
+  - git status
+  
+  - git add filename (or add . to add the whole directory you're in locally)
+  
+  - git commit -m "Why I'm making a change"
+  
+
