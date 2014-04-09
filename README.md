@@ -115,14 +115,18 @@ git:
     - Click "New Issue"
 
 
-**Branching and Merging (And the conflicts that arise)**
-
+**Branching and Merging (And the conflicts that arise)** 
+(This could really be it's own lecture, especially if I talk about plumbing, like what's in the .git folder)
 
   - If I make changes to this file and then you decide you want to have the latest changes.
+  
     - In git 
+    
       - git pull origin
       - git merge master
+      
     - On GitHub
+    
       - Go to that repo and click pull request
       - Merge changes
   
