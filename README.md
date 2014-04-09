@@ -147,7 +147,7 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
     
     - Remote 
 
- - Pushing
+  - Pushing
  
    - Local
    
