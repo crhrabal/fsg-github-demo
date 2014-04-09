@@ -73,7 +73,8 @@ git:
     - Click on "classroom" folder
       - Click + button to add a file username.md
         - Add your name
-    
-    
+        - Commit file
+  
+    - A file is created in your fork. 
     
     
