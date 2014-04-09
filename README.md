@@ -40,4 +40,18 @@ git:
   
   - git commit -m "Why I'm making a change"
   
+2. GitHub basics
 
+  - Create a GitHub account  (www.github.com)
+  
+  - Create a new repository. Click the + at the top of the page
+
+    - Make it public, Add a readme.
+    
+  - Local vs Web-based
+  
+    - git clone https://www.github.com/username/reponame - You can clone this repo to your local machine, and work             locally or on the web.
+    
+    - You can push back to github from both.
+
+    
