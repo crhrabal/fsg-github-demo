@@ -58,6 +58,21 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
     - Typing "man git-command" will bring up internal documentation on a particular command. 
     
       - For instance, the man page for "git help" is "man git-help"
+      
+  - Set up your environment
+  
+    - git config --global user.name "Your Name"
+    - git config --global user.email "youremail@email"
+  
+      - Make sure to use this email when setting up your GitHub account.
+
+    - git config --global core.editor emacs
+    
+      - Pick your default text editor for git
+    
+    - Check Settings
+    
+      - git config --list   - Lists your current environment settings
     
   - git init projectname
 
