@@ -83,6 +83,18 @@ git:
   
   - The owner of the repo can click Pull requests on the right of the screen
     - If you click on a pull request, you or all other uses can add comments to specific pull requests.
+      - Comments update in real-time. 
   
-    
-    
+4. Commenting
+
+  - Click commits on a pull request or at the top of a repo
+     - Click SHA-1 number
+       -SHA-1 is a type of compression. Every change in git is compressed and assigned a SHA-1 hash to make git       
+       -lightweight
+     - If you click it will bring you to that specific commit.
+       -You or any other user can also comment on specific commits. 
+     - You can @mention people to bring stuff to their attention.
+
+5. No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.
+
+
