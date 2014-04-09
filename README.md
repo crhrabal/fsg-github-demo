@@ -38,7 +38,7 @@ git:
   
   - git add filename (or add . to add the whole directory you're in locally)
   
-  - git commit -m "Why I'm making a change"
+  - git commit -m "Why I'm making a change"  (-m for commit message)
   
 2. GitHub basics
 
@@ -58,7 +58,7 @@ git:
   
     - git remote add origin https://www.github.com/username/reponame.git
       - makes the url the origin
-    - git push -u origin master
+    - git push -u origin master   (-u for set upstream)
       - pushes your repo/changes to that origin
       - enter username / password
       - maintains your history from your local machine (time stamp, etc. If you created/modified the files yesterday it'd         say in GitHub you created them yesterday.
