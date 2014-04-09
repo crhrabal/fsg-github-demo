@@ -9,9 +9,9 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
 
   - GitHub:
 
-    -https://guides.github.com/
+    - https://guides.github.com/
 
-    -https://help.github.com/categories/54/articles
+    - https://help.github.com/categories/54/articles
 
   - git:
 
