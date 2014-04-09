@@ -26,7 +26,7 @@ git:
 - What is git/Github
 
 
-- git basics
+**git basics**
 
   - git init projectname
 
@@ -40,7 +40,7 @@ git:
   
   - git commit -m "Why I'm making a change"  (-m for commit message)
   
-- GitHub basics
+**GitHub basics**
 
   - Create a GitHub account  (www.github.com)
   
@@ -63,7 +63,7 @@ git:
       - enter username / password
       - maintains your history from your local machine (time stamp, etc. If you created/modified the files yesterday it'd         say in GitHub you created them yesterday.
 
--  Fork / Clone 
+**Fork / Clone**
 
   - Cloning/Forking makes an entire copy of a repo.
   
@@ -86,7 +86,7 @@ git:
       - Comments update in real-time. 
       - A pull request is a code review, asking someone to merge your changes into their repo.
   
-- Commenting
+**Commenting**
 
   - Click commits on a pull request or at the top of a repo
      - Click SHA-1 number
