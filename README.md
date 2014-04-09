@@ -3,6 +3,7 @@ fsg-github-demo
 
 This is where I'll be uploading/writing/editing the git/github tutorial that I'll be presenting to WVU Free Software Group.
 
+
 GitHub:
 
 *-https://guides.github.com/
@@ -16,6 +17,10 @@ git:
 *-http://gitref.org/
 
 *-http://try.github.io/levels/1/challenges/1 
+
+
+
+**Introduction**
 
 - Who am I?
 
@@ -96,6 +101,6 @@ git:
        -You or any other user can also comment on specific commits. 
      - You can @mention people to bring stuff to their attention.
 
-- No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.
+**No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.**
 
 
