@@ -106,6 +106,7 @@ git:
 **Dashboard: Blame/Raw, Wiki, Graphs, Network**
 
 **Issues**
+
   - To file bugs, ask a question, etc
     -Click "Issues"
     -Click "New Issue"
