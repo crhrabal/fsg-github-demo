@@ -209,6 +209,8 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
    
    - Remote
 
+  - Reverting to a previous commit
+  
 **Branching and Merging (And the conflicts that arise)** 
 (This could really be it's own lecture, especially if I talk about plumbing, like what's in the .git folder)
 
@@ -223,4 +225,10 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
     
       - Go to that repo and click pull request
       - Merge changes
+  
+  - If I delete a bunch of files, commit, then try to merge? 
+  
+  - If more than one user change the same line then (non-admin) tries to push to upstream (merge)
+  
+  - how to delete a tag?
   
