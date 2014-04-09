@@ -84,6 +84,7 @@ git:
   - The owner of the repo can click Pull requests on the right of the screen
     - If you click on a pull request, you or all other uses can add comments to specific pull requests.
       - Comments update in real-time. 
+      - A pull request is a code review, asking someone to merge your changes into their repo.
   
 4. Commenting
 
