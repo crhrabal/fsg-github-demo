@@ -76,7 +76,7 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
   
     - git remote add origin https://www.github.com/username/reponame.git
       - makes the url the origin
-        -Origin can be local, github, or a private server you have write-access too. You can also change the origin at            any time. Origin doesn't mean "where it started," though it is often used that way. Origin just sets what you            want your remote repository to be. You can have multiple remotes
+        -Origin can be local, github, or a private server for which you have write-access. You can also change the origin          at any time. Origin doesn't mean "where it started," though it is often used that way. Origin just sets what you          want your remote repository to be. You can have multiple remote repositories.
 
     - git push -u origin master   (-u for set upstream)
       - pushes your repo/changes to that origin
@@ -127,6 +127,31 @@ NOTE: This lecture is not supposed to cover all things git/GitHub. This will get
     - Click "Issues"
     - Click "New Issue"
 
+**Back to git** - TODO
+
+  - Cloning
+  
+    - Local
+    
+    - Remote
+  
+  - Fetching
+  
+    - Local 
+    
+    - Remote
+  
+  - Merging
+
+    - Local
+    
+    - Remote 
+
+ - Pushing
+ 
+   - Local
+   
+   - Remote
 
 **Branching and Merging (And the conflicts that arise)** 
 (This could really be it's own lecture, especially if I talk about plumbing, like what's in the .git folder)
