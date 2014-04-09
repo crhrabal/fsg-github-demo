@@ -66,3 +66,14 @@ git:
 3.  Fork / Clone 
 
   - Cloning/Forking makes an entire copy of a repo.
+  
+    - Click Fork button - Area at top shows you that your fork is your personal copy of the repo. You can make any
+      changes and it does not affect the original.
+    
+    - Click on "classroom" folder
+      - Click + button to add a file username.md
+        - Add your name
+    
+    
+    
+    
