@@ -46,7 +46,7 @@ git:
   
   - Create a new repository. Click the + at the top of the page
 
-    - Make it public, Add a readme.
+    - Make it public, Add a readme. Add a license.
     
   - Local vs Web-based
   
@@ -54,4 +54,15 @@ git:
     
     - You can push back to github from both.
 
-    
+  - Creating a repo from your local machine
+  
+    - git remote add origin https://www.github.com/username/reponame.git
+      - makes the url the origin
+    - git push -u origin master
+      - pushes your repo/changes to that origin
+      - enter username / password
+      - maintains your history from your local machine (time stamp, etc. If you created/modified the files yesterday it'd         say in GitHub you created them yesterday.
+
+3.  Fork / Clone 
+
+  - Cloning/Forking makes an entire copy of a repo.
