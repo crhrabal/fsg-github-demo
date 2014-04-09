@@ -103,4 +103,7 @@ git:
 
 **No privilege needed for the above, you don't NEED write-access to a repository that isn't yours.**
 
+**Dashboard: Blame/Raw, Wiki, Graphs, Network**
 
+**Issues**
+  - To file bugs, ask a question, etc
