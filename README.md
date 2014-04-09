@@ -3,7 +3,7 @@ fsg-github-demo
 
 This is where I'll be uploading/writing/editing the git/github tutorial that I'll be presenting to WVU Free Software Group.
 
-NOTE: This lecture is not supposed to cover all things git/GitHub. This will get you on the right track, but there is a wealth of information in the documentation below. The git/GitHub docs below, along with the man pages within the git program are the best places to go for more info.
+NOTE: This lecture is not supposed to cover all things git/GitHub. This will get you on the right track, but there is a wealth of information in the documentation link below. The git/GitHub doc links below, along with the man pages within git, are the best places to go for more info.
 
 **Documentation:** 
 
